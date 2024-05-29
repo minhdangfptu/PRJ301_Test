@@ -100,9 +100,9 @@
             <div class="header">Choose language: 
                 <select id="language"> 
                     <option value="en">English (US)</option>
-                    <option value="fr">French</option>
-                    <option value="es">Spanish</option>
-                    <option value="de">German</option>
+                    <option value="fr">French (coming soon)</option>
+                    <option value="es">Spanish (coming soon)</option>
+                    <option value="de">German (coming soon)</option>
                     <option value="all">All</option>
                 </select>
             </div>

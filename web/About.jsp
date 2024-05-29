@@ -9,7 +9,7 @@
 <html>
     <head>
         <jsp:include page="Header.jsp"></jsp:include>
-    </head>
+        </head>
         <body class="sub_page">
             <div class="hero_area">
                 <!-- header section strats -->
@@ -84,6 +84,7 @@
                             Development Team English Gadget
                         </h2>
                     </div>
+                    <br>
                     <!-- ***** Our Team Area Starts ***** -->
                     <section class="our-team">
                         <div class="container">
@@ -91,15 +92,9 @@
                                 <div class="col-lg-4">
                                     <div class="team-item">
                                         <div class="thumb">
-                                            <div class="hover-effect">
-                                                <div class="inner-content">
-                                                    <ul>
-                                                        <li><a href="https://www.facebook.com/dingming9apct"><i class="fa fa-facebook"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <img src="assets/images/team2.jpg">
+                                            <img src="images/image2.jpg"  style="width: 280px">
                                         </div>
+                                        <br>
                                         <div class="down-content">
                                             <h4>Nguyễn Phan Hoàng Sơn</h4>
                                             <span>Leader</span>
@@ -109,16 +104,9 @@
                                 <div class="col-lg-4">
                                     <div class="team-item">
                                         <div class="thumb">
-                                            <div class="hover-effect">
-                                                <div class="inner-content">
-                                                    <ul>
-                                                        <li><a href="https://www.facebook.com/theduong.nguyen.9862"><i class="fa fa-facebook"></i></a></li>
-
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <img src="assets/images/team4.jpg">
+                                            <img src="images/image5.jpg" style="width: 280px">
                                         </div>
+                                        <br>
                                         <div class="down-content">
                                             <h4>Nguyễn Quang Hiếu</h4>
                                             <span>Member</span>
@@ -128,15 +116,10 @@
                                 <div class="col-lg-4">
                                     <div class="team-item">
                                         <div class="thumb">
-                                            <div class="hover-effect">
-                                                <div class="inner-content">
-                                                    <ul>
-                                                        <li><a href="https://www.facebook.com/kimbao.khuat"><i class="fa fa-facebook"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <img src="assets/images/team3.jpg">
+
+                                            <img src="images/image1.jpg" style="width: 280px">
                                         </div>
+                                        <br>
                                         <div class="down-content">
                                             <h4>Đặng Đình Minh</h4>
                                             <span>Member</span>
@@ -150,14 +133,9 @@
                                 <div class="col-lg-4">
                                     <div class="team-item">
                                         <div class="thumb">
-                                            <div class="hover-effect">
-                                                <div class="inner-content">
-                                                    <ul>
-                                                        <li><a href="https://www.facebook.com/fank234"><i class="fa fa-facebook"></i></a></li>                                        </ul>
-                                                </div>
-                                            </div>
-                                            <img src="assets/images/team1.jpg">
+                                            <img src="images/image.jpg"  style="width: 280px">
                                         </div>
+                                        <br>
                                         <div class="down-content">
                                             <h4>Đoàn Duy Khánh</h4>
                                             <span>Member</span>
@@ -167,17 +145,11 @@
                                 <div class="col-lg-4">
                                     <div class="team-item">
                                         <div class="thumb">
-                                            <div class="hover-effect">
-                                                <div class="inner-content">
-                                                    <ul>
-                                                        <li><a href="https://www.facebook.com/baolam.1911"><i class="fa fa-facebook"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <img src="assets/images/image11.jpeg">
+                                            <img src="images/image4.jpg"  style="width: 280px">
                                         </div>
+                                        <br>
                                         <div class="down-content">
-                                            <h4>Ngô Khánh Tùng</h4>
+                                            <h4>Trần Khánh Tùng</h4>
                                             <span>Member</span>
                                         </div>
                                     </div>
@@ -185,15 +157,9 @@
                                 <div class="col-lg-4">
                                     <div class="team-item">
                                         <div class="thumb">
-                                            <div class="hover-effect">
-                                                <div class="inner-content">
-                                                    <ul>
-                                                        <li><a href="https://www.facebook.com/bthnguyenn"><i class="fa fa-facebook"></i></a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <img src="assets/images/team22.jpeg">
+                                            <img src="images/image6.jpg"   style="width: 280px">
                                         </div>
+                                        <br>
                                         <div class="down-content">
                                             <h4>Grammarly</h4>
                                             <span>Sponsor</span>
@@ -218,14 +184,21 @@
                             <div class="col-md-6 ml-auto">
                                 <div class="heading_container remove_line_bt">
                                     <h2>
-                                        #NewArrivals
+                                        #Coming soon
                                     </h2>
                                 </div>
                                 <p style="margin-top: 20px;margin-bottom: 30px;">
-                                    Vitae fugiat laboriosam officia perferendis provident aliquid voluptatibus dolorem, fugit ullam sit earum id eaque nisi hic? Tenetur commodi, nisi rem vel, ea eaque ab ipsa, autem similique ex unde!
-                                </p>
+                                    Get ready for the launch of our groundbreaking translation and blog website! <br>
+
+                                    🌟 Accurate and Fast Translations: Our advanced technology and professional translators ensure precise and smooth translations for any content you need. <br>
+
+                                    🌟 Rich and Useful Bl qog: Discover a wealth of knowledge with quality blog posts on language learning tips, cultural insights, and inspiring stories. <br>
+
+                                    🌟 User-Friendly Interface: Our website is designed for an effortless user experience, making it easy to access services with just a few clicks. <br>
+
+                                    🌟 Special Launch Offers: Enjoy exclusive deals for early users when you sign up and use our services at launch.                                </p>
                                 <a href="">
-                                    Shop Now
+                                    Sign up Now
                                 </a>
                             </div>
                         </div>
